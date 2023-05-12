@@ -1,5 +1,4 @@
 # MADProject
-
 ### Ri my function is expensive for crud(add,delete,update,view)
 
 ### sabe my function is income
