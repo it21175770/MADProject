@@ -11,6 +11,7 @@ Delete fun
 Crud operation 
 View 
 Upload
+Update crud 
 
 
 
