@@ -1,2 +1,2 @@
-# MADProje
+# MADProj
 
