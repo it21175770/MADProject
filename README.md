@@ -10,8 +10,7 @@ our projct
 Delete fun
 Crud operation 
 View 
-
-
+Upload
 
 
 
