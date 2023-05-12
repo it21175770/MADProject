@@ -7,9 +7,10 @@
 
 
 our projct 
+Delete fun
 
 
-update crud
+
 
 
 
