@@ -13,6 +13,6 @@ View
 Upload
 Update crud 
 Calculation function 
-
+Setting option 
 
 
